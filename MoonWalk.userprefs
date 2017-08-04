@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../MakeStory/Assets/WebSocket/ClientExample2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoonWalkScript.cs" Line="10" Column="25" />
+      <File FileName="Assets/Scripts/meteorite.cs" Line="9" Column="3" />
+      <File FileName="../MakeStory/Assets/WebSocket/ClientExample2.cs" Line="105" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
